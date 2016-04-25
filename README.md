@@ -1,4 +1,4 @@
-bullnose includes portions of and extends some exceptional libraries for building websites.
+bullnose includes and extends exceptional libraries for building websites.
 
 bullnose began as a boilerplate for static websites and is evolving into various skeleton templates, the first of which to launch, probably the WordPress version, will reside here. Subsequent adaptations for various static generators and publishing engines will have separate repos to avoid bloat. 
 
